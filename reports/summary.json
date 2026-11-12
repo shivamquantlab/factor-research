@@ -1,0 +1,8 @@
+{
+  "seed": 31,
+  "periods": 120,
+  "assets_per_period": 40,
+  "mean_cross_sectional_slope": 0.0026135556268740185,
+  "mean_long_short_return": 0.007614382813660784,
+  "synthetic_terminal_wealth": 2.4801560322533103
+}
